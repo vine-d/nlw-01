@@ -1,0 +1,11 @@
+# dependencies
+node_modules
+
+# files uploaded
+uploads/*
+
+# database
+*.sqlite
+
+# misc
+.DS_Store
